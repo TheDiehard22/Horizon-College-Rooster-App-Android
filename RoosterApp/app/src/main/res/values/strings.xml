@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Horizon College Roosters</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string-array name="lesweken">
+        <item>13-12-2015 t/m 20-12-2015</item>
+        <item>21-12-2015 t/m 28-12-2015</item>
+    </string-array>
+
+</resources>
